@@ -59,10 +59,52 @@ const hasarel = {
 ## 🎯 Core Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,spring,tailwind,bootstrap&perline=6" /><br><br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,pytorch,keras,opencv&perline=6" /><br><br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=6" /><br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker&perline=6" />
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+        <br><strong>AI / ML</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+        <br><strong>Web Dev</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+        <br><strong>Mobile Dev</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="80">
+        <br><strong>Game Dev</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+        <br><strong>DevOps</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+        <br><strong>UI / UX</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
+        <br><strong>Data Science</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257469-7ce42dcb-6bad-4d04-b388-5ecb098bd005.gif" width="80">
+        <br><strong>Robotics</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257474-808596ec-8aab-4085-ae3d-1ba1b9e5c2d5.gif" width="80">
+        <br><strong>Video Editing</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/74038190/212257479-1f9317c4-3c7c-4f62-9e56-f75b4f7d0c36.gif" width="80">
+        <br><strong>3D Modeling</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
