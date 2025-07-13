@@ -12,11 +12,11 @@
 
 ```typescript
 const hasarel = {
-  name: "Hasarel",
+  name: "Hasarel_Himasara",
   role: "Full Stack Developer & Creative Professional",
   education: "BICT Student at Uva Wellassa University",
   currentlyLearning: ["Advanced Java", "Machine Learning", "Cloud Computing"],
-  interests: ["AI/ML", "Web3", "Robotics", "Game Development"],
+  interests: ["AI/ML", "Web3", "Robotics", "Business Intelligence"],
   funFact: "I can debug code and edit videos simultaneously! 🎬💻"
 };
 ```
@@ -31,27 +31,27 @@ const hasarel = {
 
 ### 🔥 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,php,go,rust,swift&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,php,swift&perline=6" />
 </div>
 
 ### 🛠️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,spring,tailwind,bootstrap,vue,angular,jquery&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,spring,tailwind,bootstrap&perline=6" />
 </div>
 
 ### 🗄️ Databases & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,azure,docker,kubernetes&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,awsazure&perline=5" />
 </div>
 
 ### 🎨 Design & Creative Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender,unity,godot&perline=4" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender&perline=4" />
 </div>
 
 ### 🔧 Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,bash,vim&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idealinux&perline=5" />
 </div>
 
 ---
