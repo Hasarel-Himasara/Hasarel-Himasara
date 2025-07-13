@@ -36,7 +36,7 @@ const hasarel = {
 
 ### 🛠️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,spring,tailwind,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,spring,tailwind,bootstrap,pandas,numpy,scikit-learn,tensorflow,pytorch,opencv,keras&perline=6" />
 </div>
 
 ### 🗄️ Databases & Cloud
