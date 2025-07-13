@@ -14,7 +14,7 @@
 const hasarel = {
   name: "Hasarel_Himasara",
   role: "Full Stack Developer & Creative Professional",
-  education: "BICT Student at Uva Wellassa University(UG)",
+  education: "BICT Student at Uva Wellassa University (UG)",
   currentlyLearning: ["Advanced Java", "Machine Learning", "Cloud Computing"],
   interests: ["AI/ML", "Web3", "Robotics", "Business Intelligence"],
   funFact: "I can debug code and edit videos simultaneously! 🎬💻"
