@@ -31,7 +31,7 @@ const hasarel = {
 
 ### 🔥 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,php,swift&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,php,flutter&perline=6" />
 </div>
 
 ### 🛠️ Frameworks & Libraries
